@@ -9,5 +9,5 @@ I used the the [covid_19_geographic_distribution_worldwide](https://console.clou
 1. which countries grew the most in number of cases last month? 
 1. Are the daily cases in the Netherlands in the May 2020 higher or lower than its monthly average? 
 
-Data was analyzed on 03/09/2020
+Data was analyzed on 09/03/2020.
 
