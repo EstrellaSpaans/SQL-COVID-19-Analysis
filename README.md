@@ -5,7 +5,7 @@ Data was analyzed on 09/03/2020.
 
 ### 1. What columns and data type are there?
 
-![Covid-19%20Analysis%20139eb82813594f75a6eed5aeef3f8fe4/Screen_Shot_2020-10-20_at_8.25.24_PM.png](Covid-19%20Analysis%20139eb82813594f75a6eed5aeef3f8fe4/Screen_Shot_2020-10-20_at_8.25.24_PM.png)
+![Data_Set_info.png](Data_Set_info.png)
 
 ### 2. How does the table look like?
 
