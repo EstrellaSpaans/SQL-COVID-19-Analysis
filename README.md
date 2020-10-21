@@ -5,7 +5,7 @@ Data was analyzed on 09/03/2020.
 
 ### 1. What columns and data type are there?
 
-![Data_Set_info.png](Data_Set_info.png)
+![Data_set_overview.png](Data_set_overview.png)
 
 ### 2. How does the table look like?
 
